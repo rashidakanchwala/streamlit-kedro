@@ -1,0 +1,7 @@
+data_processing:
+  max_fleet: 1484.0
+  max_review_score: 100.0
+  max_reviews: 100.0
+  min_fleet: 1.0
+  min_review_score: 20.0
+  min_reviews: 0.0
